@@ -1,0 +1,28 @@
+﻿body {
+    background-color: lightgray;
+    color: blue;
+}
+
+.topPanel {
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 5%;
+    width: 90%;
+    height: 20%;
+    background-color: lightcyan;
+    color: darkblue;
+}
+
+.centerPanel {
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    width: 90%;
+    height: 80%;
+    background-color: white;
+    color: darkmagenta;
+}
+h1, h2, h3 {
+    text-align: center;
+}
